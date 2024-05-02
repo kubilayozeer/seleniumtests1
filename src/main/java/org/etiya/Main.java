@@ -150,7 +150,7 @@ public class Main {
         else {
             System.out.println("Maskot görünmüyor!");
         }
-        //manage().window().fullscreen() Sayfayı tam ekran yapmak için kullanılır.
+        //manage().window().fullscreen() Sayfayıı tam ekran yapmak için kullanılır.
         webDriver.manage().window().fullscreen();
         Thread.sleep(2000);
 
